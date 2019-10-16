@@ -3,7 +3,6 @@
 The Docker Compose Cookbook is a library cookbook that provides custom
 resources for use in recipes.
 
-
 ## Requirements
 
 - Working Docker installation. You might want to use the excellent
